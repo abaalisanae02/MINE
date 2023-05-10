@@ -1,0 +1,31 @@
+.sc-ion-searchbar-md-h  {
+     --border-radius: 50px;
+     padding-top: 50px;
+     padding-left: 30px;
+     padding-right: 30px;
+     
+  }
+  
+  ion-card{
+    display: flex;
+    flex-direction: column;
+    width: 100% !important;
+    margin: 0 !important;
+    padding-top: 40px;
+  }
+  .rectangle{
+    background-color: #ffffff;
+    display: flex;
+    width: 360px;
+    height: 70px;
+    position: absolute;
+    top:160px;
+    border-radius: 30px;
+  }
+  .logo{
+    display: flex;
+    position: absolute;
+    top:175px;left: 240px;
+    
+    
+  }
